@@ -1,5 +1,5 @@
 <!-- Header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,100:13B9FD&height=190&section=header&text=Ahmed%20Saaid&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Flutter%20Developer%20%E2%80%A2%20Android%20%26%20iOS&descSize=18&descAlignY=58" width="100%" alt="Ahmed Saaid"/>
+<img src="./assets/header.svg" width="100%" alt="Ahmed Saaid"/>
 
 <p align="center">
   <a href="https://flutter-glow-sphere.vercel.app/">
@@ -110,17 +110,17 @@ class AhmedSaaid {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ahmedmsaaid&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedmsaaid&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages"/>
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmedmsaaid&theme=tokyonight" alt="Profile details"/>
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahmedmsaaid&theme=tokyonight" alt="GitHub stats"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ahmedmsaaid&theme=tokyonight" alt="Top languages"/>
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ahmedmsaaid&hide_border=true&theme=tokyonight" alt="GitHub streak"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedmsaaid&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution graph"/>
-</p>
-
 <!-- Footer banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:13B9FD,100:02569B&height=110&section=footer" width="100%" alt="footer"/>
+<img src="./assets/footer.svg" width="100%" alt="footer"/>
